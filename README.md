@@ -28,7 +28,7 @@ Solution:
     ```
 
 2) ```
-    Best Case: O(n)¹²³⁴⁵⁶⁷⁸⁹⁰
+    Best Case: O(n)
     Average & Worst Case: O(n²)
     ```
 
